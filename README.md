@@ -1,7 +1,7 @@
 # KatzcraftEconomy
 A plugin that allows players economy
 
-First update: "Release", v.1.0, In 2023
+First update: "Release", v.1.0, In 2024
 
 Commands for operators:
 - You can change a player's balance (/setmoney [player] [amount])
